@@ -15,7 +15,7 @@ Dino Hodl Crew is a selection of cute dinos that hodl different tokens from diff
 - 💞️ We're looking to collaborate on future projects involving our dinos
 
 [<img align="left" alt="https://linktr.ee/dinocrew" width="24px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/h90nveymaytblh5fldz8" />][linktree]
-[<img align="left" alt="https://knowhere.art/collection/terra1d25mt6eevq8xh88w49anvpju0dfldm8te0c3q8" width="75px" style="background-color:#0e008b;" src="https://knowhere.art/static/logos/knowhere-logo.png" />][knowhere]
+[<img align="left" alt="https://knowhere.art/collection/terra1d25mt6eevq8xh88w49anvpju0dfldm8te0c3q8" width="75px" style="background:#0e008b;" src="https://knowhere.art/static/logos/knowhere-logo.png" />][knowhere]
 [<img align="left" alt="https://opensea.io/collection/dinocrew" width="24px" src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" />][opensea]
 
 [<img align="left" alt="https://twitter.com/CrewHodl" width="24px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][twitter]
