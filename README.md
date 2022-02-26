@@ -14,9 +14,9 @@ Dino Hodl Crew is a selection of cute dinos that hodl different tokens from diff
 - 🌱 We're currently building a community of Dino Hodlers
 - 💞️ We're looking to collaborate on future projects involving our dinos
 
-[<img align="left" alt="https://linktr.ee/dinocrew" width="22px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/h90nveymaytblh5fldz8" />][linktree]
-[<img align="left" alt="https://twitter.com/CrewHodl" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="https://www.instagram.com/dinohodlcrew/" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />][instagram]
+[<img align="left" alt="https://linktr.ee/dinocrew" width="24px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/h90nveymaytblh5fldz8" />][linktree]
+[<img align="left" alt="https://twitter.com/CrewHodl" width="24px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="https://www.instagram.com/dinohodlcrew/" width="24px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />][instagram]
 
 
 [twitter]: https://twitter.com/CrewHodl
