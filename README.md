@@ -1,6 +1,8 @@
 ## We're Dino Hodl Crew 👋
 ### About:
-Dino Hodl Crew is a selection of cute dinos that hodl different tokens from different ecosystems. We are currently live on Opensea (Polygon) and Knowhere.art!
+Dino Hodl Crew is a selection of cute dinos that hodl different tokens from different ecosystems.
+
+We are currently live on Opensea (Polygon) and Knowhere.art!
 
 ### Road Map:
 1. Dino Hodl Crew collection live on Opensea (Polygon) ✅
